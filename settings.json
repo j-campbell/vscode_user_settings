@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "terminal.integrated.fontFamily": "Hack",
+    "terminal.integrated.cursorBlinking": true,
+    "window.reopenFolders": "one",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.fontFamily": "Hack",
+    "editor.renderIndentGuides": true,
+    "terminal.integrated.confirmOnExit": true,
+    "editor.wordWrap": "on",
+    "editor.rulers": [80],
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "phase"
+}

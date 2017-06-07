@@ -1,0 +1,10 @@
+[
+    {
+        "key": "cmd+shift+t",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "shift+cmd+space",
+        "command": "workbench.action.toggleMaximizedPanel"
+    }
+]
