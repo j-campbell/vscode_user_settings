@@ -4,7 +4,7 @@
 
     /* BEHAVIOR */
     "terminal.integrated.confirmOnExit": true,
-    "window.reopenFolders": "one",
+    "window.reopenFolders": "none",
 
     /* THEMES */
     "workbench.iconTheme": "vscode-icons",
