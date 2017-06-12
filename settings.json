@@ -6,7 +6,7 @@
     "terminal.integrated.confirmOnExit": true,
     "window.reopenFolders": "none",
     "editor.wordWrapColumn": "80",
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
 
     /* THEMES */
     "workbench.iconTheme": "vscode-icons",
