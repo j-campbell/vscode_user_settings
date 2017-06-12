@@ -5,6 +5,8 @@
     /* BEHAVIOR */
     "terminal.integrated.confirmOnExit": true,
     "window.reopenFolders": "none",
+    "editor.wordWrapColumn": "80",
+    "editor.wordWrap": "wordWrapColumn",
 
     /* THEMES */
     "workbench.iconTheme": "vscode-icons",
@@ -16,7 +18,6 @@
 
     /* APPEARENCE TWEAKS */
     "window.zoomLevel": 0,
-    "editor.wordWrap": "on",
     "editor.rulers": [80],
     "editor.minimap.enabled": true,
     "editor.minimap.renderCharacters": false,
