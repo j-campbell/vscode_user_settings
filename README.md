@@ -6,4 +6,4 @@ Arranged into catagories so that settings affecting similar areas of interest ar
 Key bindings also included (NB: source machine is running macOS)
 
 ## Last update
-08/07/2017
+12/07/2017
